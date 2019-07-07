@@ -1,5 +1,5 @@
 # Online-Chat
-- This is a chat room service with distributed server architechture, using ActiveMQ as real-time messaging server.
+- This is a chat room service with distributed server architecture, using ActiveMQ as real-time messaging server.
 - Implemented auto scaling with script and Python SDK boto3 to manage application server on AWS EC2.
 - Maintained user and chat data using MySQL on AWS RDS, and query with peewee object-relational mapper(ORM).
 
