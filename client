@@ -1,0 +1,3 @@
+#!/bin/bash
+/opt/activemq/bin/activemq start
+python3 client.py $1 $2

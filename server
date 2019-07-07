@@ -1,0 +1,3 @@
+#!/bin/bash
+sudo /opt/activemq/bin/activemq start
+python3 server.py $1 $2
